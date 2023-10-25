@@ -15,8 +15,13 @@ Instructions to this assignment can be found [here](https://reedws.github.io/IT3
 ## Self-Evaluation: 
 how many points out of 20 does your team deserve on this assignment. Revise the assignment grading guideline and assignment rubrics for guidance.
 
+Besides being late due to my awesomly corrupted laptop of the olden days, I feel like a solid 19.367 would serve me well.
+
 ## Team Reflection:
 - Where did you encounter struggles today, and what did you do to deal with it?
 
+I can't believe I spent 2 hours dying because  I accidentally called my userSelection incorrectly because I mispelled it and every suite passed, the game worked but the CPU would win 100% of the time. ALL I DID WAS MISPELL IT. but it was a good test of my patience. I actually had fun like not gonna lie.
 
 ### How long it took us to finish this?
+
+Taking those 2 hours of debugging out, 45mins to an hour at most

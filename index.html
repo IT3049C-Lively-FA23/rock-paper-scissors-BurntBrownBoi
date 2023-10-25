@@ -18,11 +18,11 @@
 
         <div id="welcome-screen">
             <form id="name-form">
-                <div>
+                <div class="form-group">
                     <label for="username">Your Name</label>
-                    <input class="form-control" id="username" name="username" placeholder="Enter Name Here....">
+                    <input class="form-control" id="username" name="username" placeholder="Enter Name Here...">
                 </div>
-                <button class="btn btn-primary" id="start-game-button">Start Game!</button>
+                <button class="btn btn-primary" type="button" id="start-game-button">Start Game!</button>
             </form>
         </div>
 
@@ -34,12 +34,12 @@
                 <div class="form-group">
                     <label for="user-selection">Select your choice</label>
                     <select class="custom-select" id="user-selection" name="user-selection">
-                        <option>Rock</option>
-                        <option>Paper</option>
-                        <option>Scissors</option>
+                        <option value="rock">Rock</option>
+                        <option value="paper">Paper</option>
+                        <option value="scissors">Scissors</option>
                     </select>
                 </div>
-                <button class="btn btn-success" id="go-button">Go!</button>
+                <button class="btn btn-success" type="button" id="go-button">Go!</button>
             </form>
             <p id="game-history"></p>
         </div>
